@@ -1,4 +1,4 @@
-![SIGMA](https://github.com/sigmaco/.github/blob/main/images/sigma-tech-banner.png) 
+![SIGMA](/images/sigma-tech-banner.png)
 
 **SIGMA FEDERATION** is the federal management administration of the special interest groups on cyber science, technology and engineering, cybercultism and technocracy from Latin America, as well as their resources, assets and rights, under the common authority and singular titularity of the **SIGMA**.
 
