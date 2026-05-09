@@ -14,5 +14,7 @@ You can join this war effort. Proceed to the [SIGMA Online](https://sigmaco.org)
 
 SIGMA FEDERATION on [GitHub](https://github.com/sigmaco), [Patreon](https://www.patreon.com/c/sigmaco), [YouTube](https://www.youtube.com/@sigmaco_org), [Blue Sky](https://bsky.app/profile/sigmaco.org), [Instagram](https://instagram.com/sigmaco_org), [Twitter](https://twitter.com/sigmaco_org), [Twitch](https://twitch.tv/sigmaco_org), [Reddit](https://www.reddit.com/u/SIGMA-Co), [Itch.io](https://resigma.itch.io/)
 
-Gather at the SIGMA's gathering points on [![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner2)](https://sigmaco.org/discord).
+Gather at the SIGMA's gathering points on [Discord](https://sigmaco.org/discord).
+
+[![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner2)](https://sigmaco.org/discord)
 
