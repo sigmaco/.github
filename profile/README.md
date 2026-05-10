@@ -4,7 +4,7 @@
 
 Leveraging systems science, cybernetics, and strategic design, SIGMA confronts colonial residues, bureaucratic stagnation, and technological dependency through the creation of adaptive, intelligent, and autonomous systems. Its objective is not reform, but replacement: to reprogram the future through design, narrative, and federalism.
 
-This channel is coordinated by the SIGMA Technology Group, in association with the Archivo Federal, the Bibliotheca Federal, and the Scitech enterprise. Most of the work conducted here is sensitive and therefore restricted (non-public). Other projects have been and/or continue to be led by the SIGMA Technology Group and the Engitech enterprise.
+This channel is coordinated by the SIGMA Technology Group, in association with the Archivo Federal, the Bibliotheca Federal, and the Scitech enterprise to deliver public projects. Other projects, non-public, have been and/or continue to be led by the SIGMA Technology Group and the Engitech.
 
 In recent years, this channel has been used to respond to requests from modding communities, software archaeologists, and retrocomputing activists seeking lost, abandoned, or retired software essential for maintaining and repairing legacy products. Such requests are addressed whenever they do not conflict with the commercial interests of copyright holders partnered with SIGMA.
 
@@ -12,7 +12,13 @@ Contributions are what make the open-source community such an extraordinary plac
 
 You can join this war effort. Proceed to the [SIGMA Online](https://sigmaco.org). [INTRANET UNDER REFACTORY]
 
-SIGMA FEDERATION on [GitHub](https://github.com/sigmaco), [Patreon](https://www.patreon.com/c/sigmaco), [YouTube](https://www.youtube.com/@sigmaco_org), [Blue Sky](https://bsky.app/profile/sigmaco.org), [Instagram](https://instagram.com/sigmaco_org), [Twitter](https://twitter.com/sigmaco_org), [Twitch](https://twitch.tv/sigmaco_org), [Reddit](https://www.reddit.com/u/SIGMA-Co), [Itch.io](https://resigma.itch.io/)
+SIGMA on [GitHub](https://github.com/sigmaco), [Patreon](https://www.patreon.com/c/sigmaco), [YouTube](https://www.youtube.com/@sigmaco_org), [Blue Sky](https://bsky.app/profile/sigmaco.org), [Instagram](https://instagram.com/sigmaco_org), [Twitter](https://twitter.com/sigmaco_org), [Twitch](https://twitch.tv/sigmaco_org), [Reddit](https://www.reddit.com/u/SIGMA-Co), [Itch.io](https://resigma.itch.io/)
+
+Report security problems to the Estado-Maior Pro Seguridad via emasec@sigmaco.org.
+
+Report or protest against the administration to the Federal Syndicance via syndicance@sigmaco.org.
+
+Do not use public email address; you will be ignored.
 
 Gather at the SIGMA's gathering points on [Discord](https://sigmaco.org/discord).
 
