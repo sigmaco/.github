@@ -1,6 +1,6 @@
 ![SIGMA](/images/sigma-fed-rXVxx(Unified%20Text%20Lockup%20(Modern%20Branding)).jpg)
 
-# Special Interest Group Management Administration (SIGMA)
+# SIGMA (Special Interest Group Management Administration)
 
 SIGMA, acronym for *Special Interest Group Management Administration*, is a technocratic coalition established in 2011 by cybernetics enthusiasts from reunited self-defenses from Leste and Guanabara. Founded to cultivate a pragmatic culture of decision-making, strategic development, and long-term civilizational planning, SIGMA has since evolved into a distributed federation of specialized institutions, projects, and operational sectors coordinated through cybernetic principles and federal governance.
 
@@ -41,6 +41,8 @@ Contributions may take the form of research, development, preservation, document
 
 The future is not inherited. It is designed.
 
+You can join this war effort. Proceed to the [SIGMA Online](https://sigmaco.org). [INTRANET UNDER REFACTORY]
+
 Report security problems to the Estado-Major Pro Securidad <security@sigmaco.org>.
 
 Report technical problems to the SIGMA Technology Group <tech@sigmaco.org>.
@@ -55,9 +57,6 @@ For juridic affairs, call the Procuradoria Federal <juridic@sigmaco.org>.
 
 Do not use public email address; you will be ignored.
 
-You can join this war effort. Proceed to the [SIGMA Online](https://sigmaco.org). [INTRANET UNDER REFACTORY]
+Or you can try to find someone resting by our bonfire on Discord:
 
-Gather at the SIGMA's gathering points on [Discord](https://sigmaco.org/discord).
-
-[![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner2)](https://sigmaco.org/discord)
-
+[![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner3)](https://sigmaco.org/discord)
