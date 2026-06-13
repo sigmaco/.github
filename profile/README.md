@@ -41,7 +41,9 @@ Contributions may take the form of research, development, preservation, document
 
 The future is not inherited. It is designed.
 
-You can join this war effort. Proceed to the [SIGMA Online](https://sigmaco.org). [INTRANET UNDER REFACTORY]
+[![DMCA Compliance information for sigmaco.org](https://www.dmca.com/img/dmca-compliant-white-bg.png)](https://www.dmca.com/compliance/sigmaco.org)
+
+For juridic affairs, call the Procuradoria Federal <juridic@sigmaco.org>.
 
 Report security problems to the Estado-Major Pro Securidad <security@sigmaco.org>.
 
@@ -53,10 +55,9 @@ Report file integrity problems to the Archivo Federal <archivo@sigmaco.org>.
 
 Report documentation problems to the Bibliotheca Federal <bibliotheca@sigmaco.org>.
 
-For juridic affairs, call the Procuradoria Federal <juridic@sigmaco.org>.
-
 Do not use public email address; you will be ignored.
 
 Or you can try to find someone resting by our bonfire on Discord:
 
 [![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner3)](https://sigmaco.org/discord)
+
